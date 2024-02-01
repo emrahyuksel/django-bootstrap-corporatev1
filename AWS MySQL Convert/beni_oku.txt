@@ -1,0 +1,1 @@
+remote_aws_sql_v2.sql dosyası MySQL bölümünde AWS üzerinde açılacak RDS veritabanı sunucusu için kullanılacaktır.
